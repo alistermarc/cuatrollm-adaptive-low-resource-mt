@@ -1,0 +1,26 @@
+{
+    "cuatro": {
+        "zero_shot": {
+            "bleu": 0.08,
+            "chrf++": 4.89,
+            "TER": 122.35
+        },
+        "one_shot": {
+            "bleu": 0.14,
+            "chrf++": 6.25,
+            "TER": 116.4
+        }
+    },
+    "nllb": {
+        "zero_shot": {
+            "bleu": 40.14,
+            "chrf++": 61.79,
+            "TER": 50.53
+        },
+        "one_shot": {
+            "bleu": 7.56,
+            "chrf++": 30.25,
+            "TER": 214.24
+        }
+    }
+}
